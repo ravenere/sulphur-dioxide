@@ -1,0 +1,138 @@
+# Cases and Boxes
+
+## Cases
+
+```
+Case_Revenge = 308;
+Case_Chameleon = 309;
+Case_FunAndSun = 311;
+Case_Reforged = 319;
+Case_Nightmare = 329;
+KitsuneDreamsCase = 347;
+
+KitsuneDreamsArcaneCase = 349;
+ArcaneCase_FunAndSun = 310;
+ArcaneCase_Nightmare = 321;
+ArcaneCase_Reforged = 318;
+
+```
+
+## Boxes
+
+```
+Box_FunAndSun = 312;
+Box_Reforged = 320;
+Box_Nightmare = 328;
+KitsuneDreamsBox = 348;
+OriginBox = 401;
+FuriousBox = 402;
+RivalBox = 403;
+FableBox = 404;
+ScorpionBox = 405;
+EmpireBox = 406;
+SharpBox = 407;
+Box_Revenge = 408;
+Box_Chameleon = 409;
+
+FragmentBox = 900;
+```
+
+# Other
+
+## GraffityPack
+```
+GraffitiPack_FunAndSun = 706;
+GraffitiPack_Nightmare = 714;
+GraffitiPack_KitsuneDreams = 721;
+GraffitiPack_Reforged = 712;
+GraffitiPack_Vibe = 709;
+GraffitiPack_Splash = 703;
+GraffitiPack_Flow = 704;
+GraffitiPack_FunAndSun = 706;
+StickerPack_FunAndSun = 707;
+CharmPack_FunAndSun = 708;
+
+```
+
+## StickerPack
+
+```
+StickerPack_FunAndSun = 707;
+StickerPack_Nightmare = 713;
+StickerPack_KitsuneDreams = 722;
+StickerPack_Reforged = 711;
+StickerPack_Joy = 723;
+Halloween2019StickersPack = 701;
+RainbowStickerPack = 702;
+ShineStickerPack = 705;
+
+StickerPack_FORZEMajor2024 = 716;
+StickerPack_ALPHA7ESPORTSMajor2024 = 717;
+StickerPack_STREETEIGHTMajor2024 = 718;
+StickerPack_AMKALESPORTSMajor2024 = 719;
+```
+
+## CharmPack
+
+```
+
+CharmPack_FunAndSun = 708;
+CharmPack_Nightmare = 715;
+CharmPack_KitsuneDreams = 720;
+CharmPack_Reforged = 710;
+Halloween2020CharmsPack = 901;
+
+
+```
+
+## Passes
+
+```
+TwoYearsEventGoldPass = 601;
+NewYearMadness2020GoldPass = 602;
+ProjectZ9GoldPass = 603;
+RevivalGoldPass = 604;
+NewYear2021GoldPass = 605;
+FourYearGoldPass = 606;
+DragonRiseGoldPass = 607;
+CursedSoulsGoldPass = 608;
+WinterFun2022GoldPass = 609;
+FiveYearGoldPass = 610;
+LegendsGoldPass = 611;
+PandoraGoldPass = 612;
+GoldPass_HotWinterParty = 613;
+GoldPass_Fireborn = 614;
+GoldPass_SpaceVision = 615;
+GoldPass_Sunstrike = 616;
+GoldPass_SubjectX = 617;
+GoldPass_FrostyChaos = 618;
+GoldPass_Outcast = 619;
+GoldPass_FunAndSun = 620;
+GoldPass_Reforged = 621;
+GoldPass_Nightmare = 622;
+GoldPass_KitsuneDreams = 624;
+
+```
+
+## Fragments
+
+```
+
+UncommonFragment = 902;
+RareFragment = 903;
+EpicFragment = 904;
+LegendaryFragment = 905;
+ArcaneFragment = 906;
+NamelessFragment = 907;
+
+
+```
+
+## Misc
+
+```
+XP_500Xp = 801;
+XP_1000Xp = 802;
+GiftNewYear2019 = 501;
+
+```
