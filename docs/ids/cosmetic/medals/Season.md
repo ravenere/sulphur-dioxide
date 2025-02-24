@@ -1,0 +1,293 @@
+# Season
+
+
+## Revival
+
+
+Badge Revival Bronze = `134`
+
+Badge Revival Silver = `135`
+
+Badge Revival Gold = `136`
+
+Badge Revival Elite Gold = `137`
+
+Badge Revival Platinum = `138`
+
+Badge Revival Diamond = `139`
+
+
+## DragonRise
+
+
+Badge DragonRise Bronze = `153`
+
+Badge DragonRise Silver = `154`
+
+Badge DragonRise Gold = `155`
+
+Badge DragonRise Elite Gold = `156`
+
+Badge DragonRise Platinum = `157`
+
+Badge DragonRise Rubin = `158`
+
+
+## CursedSouls
+
+
+Badge CursedSouls Bronze = `159`
+
+Badge CursedSouls Silver = `160`
+
+Badge CursedSouls Gold = `161`
+
+Badge CursedSouls Elite Gold = `162`
+
+Badge CursedSouls Platinum = `163`
+
+Badge CursedSouls Diamond = `164`
+
+
+## Legends
+
+
+Badge Legends Bronze = `178`
+
+Badge Legends Silver = `179`
+
+Badge Legends Gold = `180`
+
+Badge Legends Elite Gold = `181`
+
+Badge Legends Platinum = `182`
+
+Badge Legends Diamond = `183`
+
+
+Legends Spin = `209`
+
+Legends Spin Shop 2 = `210`
+
+Legends Spin Shop 3 = `211`
+
+Legends Spin Shop 4 = `212`
+
+Legends Spin Shop 5 = `213`
+
+Legends Spin Shop 6 = `214`
+
+Legends Spin Shop 7 = `215`
+
+Legends Spin Silver Available = `216`
+
+Legends Spin Gold Available = `217`
+
+Legends Spin Diamond Available = `218`
+
+
+## Pandora
+
+
+Badge Pandora Bronze = `184`
+
+Badge Pandora Silver = `185`
+
+Badge Pandora Gold = `186`
+
+Badge Pandora Elite Gold = `187`
+
+Badge Pandora Platinum = `188`
+
+Badge Pandora Diamond = `189`
+
+
+## HotWinterParty
+
+
+Medal HotWinterParty Bronze = `190`
+
+Medal HotWinterParty Silver = `191`
+
+Medal HotWinterParty Gold = `192`
+
+Medal HotWinterParty Elite Gold = `193`
+
+Medal HotWinterParty Platinum = `194`
+
+Medal HotWinterParty Diamond = `195`
+
+
+## Halloween 2021
+
+
+Halloween 2021 Spin = `201`
+
+Halloween 2021 Spin Reward1 = `202`
+
+Halloween 2021 Spin Reward2 = `203`
+
+Halloween 2021 Spin Reward3 = `204`
+
+
+
+## Fireborn
+
+
+Medal Fireborn Bronze = `252`
+
+Medal Fireborn Silver = `253`
+
+Medal Fireborn Gold = `254`
+
+Medal Fireborn Elite Gold = `255`
+
+Medal Fireborn Platinum = `256`
+
+Medal Fireborn Diamond = `257`
+
+
+## Space Vision
+
+
+Medal SpaceVision Bronze = `258`
+
+Medal SpaceVision Silver = `259`
+
+Medal SpaceVision Gold = `260`
+
+Medal SpaceVision Elite Gold = `261`
+
+Medal SpaceVision Platinum = `262`
+
+Medal SpaceVision Diamond = `263`
+
+
+## Sunstrike
+
+
+Medal Sunstrike Bronze = `264`
+
+Medal Sunstrike Silver = `265`
+
+Medal Sunstrike Gold = `266`
+
+Medal Sunstrike Elite Gold = `267`
+
+Medal Sunstrike Platinum = `268`
+
+Medal Sunstrike Diamond = `269`
+
+
+## Frosty Chaos
+
+
+Medal FrostyChaos Bronze = `282`
+
+Medal FrostyChaos Silver = `283`
+
+Medal FrostyChaos Gold = `284`
+
+Medal FrostyChaos Elite Gold = `285`
+
+Medal FrostyChaos Platinum = `286`
+
+Medal FrostyChaos Diamond = `287`
+
+
+
+## Outcast
+
+
+Medal Outcast Bronze = `288`
+
+Medal Outcast Silver = `289`
+
+Medal Outcast Gold = `290`
+
+Medal Outcast Elite Gold = `291`
+
+Medal Outcast Platinum = `292`
+
+Medal Outcast Diamond = `293`
+
+
+## Subject X
+
+
+Medal SubjectX Bronze = `270`
+
+Medal SubjectX Silver = `271`
+
+Medal SubjectX Gold = `272`
+
+Medal SubjectX Elite Gold = `273`
+
+Medal SubjectX Platinum = `274`
+
+Medal SubjectX Diamond = `275`
+
+
+## Fun And Sun
+
+
+Medal FunAndSun Bronze = `294`
+
+Medal FunAndSun Silver = `295`
+
+Medal FunAndSun Gold = `296`
+
+Medal FunAndSun Elite Gold = `297`
+
+Medal FunAndSun Platinum = `298`
+
+Medal FunAndSun Diamond = `299`
+
+
+## Reforged
+
+
+Medal Reforged Bronze = `300`
+
+Medal Reforged Silver = `313`
+
+Medal Reforged Gold = `314`
+
+Medal Reforged Elite Gold = `315`
+
+Medal Reforged Platinum = `316`
+
+Medal Reforged Diamond = `317`
+
+
+## Nightmare
+
+
+Medal Nightmare Bronze = `322`
+
+Medal Nightmare Silver = `323`
+
+Medal Nightmare Gold = `324`
+
+Medal Nightmare Elite Gold = `325`
+
+Medal Nightmare Platinum = `326`
+
+Medal Nightmare Diamond = `327`
+
+
+## Kitsune Dreams
+
+
+Medal KitsuneDreams Bronze = `341`
+
+Medal KitsuneDreams Silver = `342`
+
+Medal KitsuneDreams Gold = `343`
+
+Medal KitsuneDreams Elite Gold = `344`
+
+Medal KitsuneDreams Platinum = `345`
+
+Medal KitsuneDreams Diamond = `346`
+

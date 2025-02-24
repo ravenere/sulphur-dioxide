@@ -1,0 +1,43 @@
+# Gloves
+
+
+Phoenix = `3000`
+Autumn = `3001`
+Geometric = `3002`
+Retro Wave = `3003`
+Living Flame = `3004`
+Neuro = `3005`
+Burning Fists = `3006`
+Pun = `3007`
+Champion = `3008`
+Steam Rider = `3009`
+Year Of The Tiger = `3010`
+Acid = `3011`
+Camo = `3012`
+Fossil = `3013`
+Handcraft = `3014`
+Raider = `3015`
+Thug = `3016`
+Fireborn 1 = `3017`
+Fireborn 2 = `3018`
+Fireborn 3 = `3019`
+Fireborn 4 = `3020`
+Fireborn 5 = `3021`
+Fireborn 6 = `3022`
+Flux = `3023`
+Shatter = `3024`
+Haunt = `3025`
+Plague = `3026`
+Acid Veil = `3027`
+Immolation = `3028`
+Stream = `3030`
+Artificer = `3031`
+Dragon Glass = `3032`
+Mimicry = `3033`
+Rebellion = `3034`
+Utility = `3035`
+Ironclad = `3036`
+Spectral = `3037`
+Gangster = `3038`
+Polymer = `3039`
+Hanami = `3040`

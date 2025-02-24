@@ -1,0 +1,24 @@
+site_name: SO2 stuff by raven
+theme:
+    name: material
+    language: ru
+plugins:
+    - glightbox
+    - search
+    - toggle-sidebar
+    - inline-svg
+    - awesome-nav
+    - mike
+    - include-markdown
+    
+extra_javascript:
+  - assets/javascripts/copy-inline-code.js
+  - assets/javascripts/hover-preview.js
+  - assets/javascripts/color-parser.js
+extra_css:
+  - assets/stylesheets/hover-preview.css
+  - assets/stylesheets/color-style.css
+  - assets/stylesheets/fix-linebreaks.css
+markdown_extensions:
+  - md_in_html
+  - pymdownx.betterem
