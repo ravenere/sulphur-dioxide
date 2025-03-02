@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function () {
             codeBlock.addEventListener("click", () => {
                 navigator.clipboard.writeText(codeBlock.innerText).then(() => {
                     codeBlock.title = "Скопировано!";
-                    setTimeout(() => (codeBlock.title = "Кликните для копирования"), 5);
+                    setTimeout(() => (codeBlock.title = "Кликните для копирования"), 300);
                 });
             });
         }
