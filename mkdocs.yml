@@ -1,5 +1,7 @@
 site_name: SO2 stuff by raven
 theme:
+    features:
+        - content.code.copy 
     name: material
     language: ru
 plugins:
@@ -12,7 +14,6 @@ plugins:
     - include-markdown
     
 extra_javascript:
-  - assets/javascripts/copy-inline-code.js
   - assets/javascripts/hover-preview.js
   - assets/javascripts/color-parser.js
 extra_css:
