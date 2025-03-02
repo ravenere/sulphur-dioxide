@@ -1,4 +1,4 @@
-# Misc
+# Другое
 
 Medal_SnowJourney = `340`
 

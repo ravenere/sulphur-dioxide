@@ -1,4 +1,4 @@
-# Avatar Frames
+# Рамки аватаров
 
 
 Tier 1 Bronze = `7001`
