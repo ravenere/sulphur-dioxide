@@ -16,6 +16,7 @@ plugins:
 extra_javascript:
   - assets/javascripts/hover-preview.js
   - assets/javascripts/color-parser.js
+  - assets/javascripts/copy-inline-code.js
 extra_css:
   - assets/stylesheets/hover-preview.css
   - assets/stylesheets/color-style.css
