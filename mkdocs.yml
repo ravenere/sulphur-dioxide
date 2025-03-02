@@ -18,10 +18,8 @@ extra_javascript:
   - assets/javascripts/color-parser.js
   - assets/javascripts/copy-inline-code.js
 extra_css:
-  - assets/stylesheets/hover-preview.css
-  - assets/stylesheets/color-style.css
-  - assets/stylesheets/fix-linebreaks.css
-  - assets/stylesheets/copy-inline-code.css
+  - assets/javascripts/hover-preview.css
+  - assets/javascripts/copy-inline-code.css
 markdown_extensions:
   - md_in_html
   - pymdownx.betterem
