@@ -10,7 +10,6 @@ plugins:
     - toggle-sidebar
     - inline-svg
     - awesome-nav
-    - mike
     - include-markdown
     
 extra_javascript:
