@@ -1,3 +1,3 @@
 # Добро пожаловать!
 
-Наверное вы зашли сюда за id'шками, они тут >> [тык](https://alexkandy8.github.io/sulphur-dioxide/ID/Каталог).
+Наверное вы зашли сюда за id'шками, они тут >> [тык](https://ravenere.github.io/sulphur-dioxide/ID/Каталог).
