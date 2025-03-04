@@ -2,6 +2,7 @@ site_name: SO2 stuff by raven
 theme:
     features:
         - content.code.copy 
+        - content.action.view
     name: material
     language: ru
 plugins:
