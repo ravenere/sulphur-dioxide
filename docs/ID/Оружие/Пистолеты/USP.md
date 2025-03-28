@@ -41,6 +41,7 @@ Ghosts = `240095`
 
 Suture = `240135`
 
+Rainforest = `240173`
 
 **StatTrack**
 
@@ -68,3 +69,5 @@ Corrode [StatTrack] = `1240072`
 Ghosts [StatTrack] = `1240095`
 
 Suture [StatTrack] = `1240135`
+
+Rainforest [StatTrack] = `1240173`

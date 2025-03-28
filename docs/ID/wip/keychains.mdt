@@ -13,6 +13,38 @@ BoomBall_Arcane = 333
 
 ```
 
+Charm_Reforged5v5Bronze = 5290;
+Charm_Reforged5v5Silver = 5291;
+Charm_Reforged5v5Gold = 5292;
+Charm_Reforged5v5EliteGold = 5293;
+Charm_Reforged5v5Platinum = 5294;
+Charm_Reforged5v5Diamond = 5295;
+Charm_Reforged2v2Bronze = 5296;
+Charm_Reforged2v2Silver = 5297;
+Charm_Reforged2v2Gold = 5298;
+Charm_Reforged2v2EliteGold = 5299;
+Charm_Reforged2v2Platinum = 5300;
+Charm_Reforged2v2Diamond = 5301;
+Charm_Reforged1v1Bronze = 5302;
+Charm_Reforged1v1Silver = 5303;
+Charm_Reforged1v1Gold = 5304;
+Charm_Reforged1v1EliteGold = 5305;
+Charm_Reforged1v1Platinum = 5306;
+Charm_Reforged1v1Diamond = 5307;
+Charm_Timbau = 5308;
+Charm_TaggedHelmet = 5309;
+Charm_Bladebrand = 5310;
+Charm_PreySilver = 5311;
+Charm_Capybara = 5312;
+Charm_Stall = 5313;
+Charm_GoldenBall = 5314;
+Charm_PreyGold = 5315;
+Charm_Transmitter = 5316;
+Charm_ChibiGRT = 5317;
+Charm_ChibiRIA = 5318;
+Charm_Parrot = 5319;
+
+
 Charm_PerfectLeader = 1506
 CharmProjectZ9Bronze = 5000
 CharmProjectZ9Silver = 5001

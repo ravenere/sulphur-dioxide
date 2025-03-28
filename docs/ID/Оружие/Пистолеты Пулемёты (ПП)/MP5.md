@@ -25,6 +25,10 @@ SilverPlated = `240089`
 
 WaterGun = `240105`
 
+Tiles = `240171`
+
+Iron = `240180`
+
 
 **StatTrack**
 
@@ -44,3 +48,5 @@ SpaceBlaster [StatTrack] = `1200005`
 Insanity [StatTrack] = `1240035`
 
 WaterGun [StatTrack] = `1240105`
+
+Tiles [StatTrack] = `1240171`

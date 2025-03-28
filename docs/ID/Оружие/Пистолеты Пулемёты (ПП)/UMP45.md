@@ -39,6 +39,7 @@ Industrial = `240076`
 
 VHS = `240087`
 
+Heatwave = `240167`
 
 **StatTrack**
 
@@ -68,3 +69,5 @@ Warchief [StatTrack] = `1230009`
 Arid [StatTrack] = `1240018`
 
 Industrial [StatTrack] = `1240076`
+
+Heatwave [StatTrack] = `1240167`

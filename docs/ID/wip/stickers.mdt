@@ -1,5 +1,20 @@
 # Stickers
 
+
+
+Sticker_Prey = 1575;
+Sticker_NoRush = 1576;
+Sticker_Capybara = 1577;
+Sticker_GunRun = 1578;
+Sticker_DoubleTroubleColor = 1579;
+Sticker_OmgSwap = 1580;
+Sticker_GolazoShine = 1581;
+Sticker_PreyColor = 1582;
+Sticker_ProwlerReflex = 1583;
+Sticker_ChirpSwap = 1584;
+Sticker_BackfireReflex = 1585;
+Sticker_TocoColor = 1586;
+
 Punisher = 1102
 MadBat = 1103
 InfernalSkull = 1104
@@ -395,6 +410,14 @@ Sitcker_FoxwishReflex = 1548
 # Shields
 
 ```
+
+Shield_ReforgedBronze = 1569;
+Shield_ReforgedSilver = 1570;
+Shield_ReforgedGold = 1571;
+Shield_ReforgedEliteGold = 1572;
+Shield_ReforgedPlatinum = 1573;
+Shield_ReforgedDiamond = 1574;
+
 Shield_RevivalBronze = 1282
 Shield_RevivalSilver = 1283
 Shield_RevivalGold = 1284

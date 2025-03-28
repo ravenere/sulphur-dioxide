@@ -19,6 +19,8 @@ Artifacts = `240086`
 
 Construction Sector = `240117`
 
+Verdict = `240184`
+
 
 **StatTrack**
 

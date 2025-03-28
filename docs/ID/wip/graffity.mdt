@@ -1,6 +1,31 @@
 # Запакованные граффити
 
 
+Graffiti_Unchained = 4390;
+Graffiti_Unchained_Packed = 4391;
+Graffiti_Bladebrand = 4392;
+Graffiti_Bladebrand_Packed = 4393;
+Graffiti_Capybara = 4394;
+Graffiti_Capybara_Packed = 4395;
+Graffiti_Prey = 4396;
+Graffiti_Prey_Packed = 4397;
+Graffiti_AngryTeam = 4398;
+Graffiti_AngryTeam_Packed = 4399;
+Graffiti_Fizz = 4400;
+Graffiti_Fizz_Packed = 4401;
+Graffiti_Rampage = 4402;
+Graffiti_Rampage_Packed = 4403;
+Graffiti_Golazo = 4404;
+Graffiti_Golazo_Packed = 4405;
+Graffiti_Hunter = 4406;
+Graffiti_Hunter_Packed = 4407;
+Graffiti_Pelada = 4408;
+Graffiti_Pelada_Packed = 4409;
+Graffiti_JoyKiller = 4410;
+Graffiti_JoyKiller_Packed = 4411;
+Graffiti_Toco = 4412;
+Graffiti_Toco_Packed = 4413;
+
 High5_Packed = `4000`
 
 High5Splash_Packed = `4002`
