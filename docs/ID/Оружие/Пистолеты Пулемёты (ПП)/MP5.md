@@ -1,5 +1,6 @@
 # MP5
 
+Blueprint = `240206`
 
 ProjectZ9 = `73610`
 
@@ -25,9 +26,14 @@ SilverPlated = `240089`
 
 WaterGun = `240105`
 
+Tiles = `240171`
+
+Iron = `240180`
+
 
 **StatTrack**
 
+Blueprint [StatTrack] = `1240206`
 
 ProjectZ9 [StatTrack] = `1073610`
 
@@ -44,3 +50,5 @@ SpaceBlaster [StatTrack] = `1200005`
 Insanity [StatTrack] = `1240035`
 
 WaterGun [StatTrack] = `1240105`
+
+Tiles [StatTrack] = `1240171`

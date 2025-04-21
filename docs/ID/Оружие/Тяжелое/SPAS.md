@@ -21,6 +21,8 @@ Dangerous = `240078`
 
 Tensai = `240157`
 
+Glide = `240176`
+
 
 **StatTrack**
 
@@ -42,3 +44,5 @@ Unicorn [StatTrack] = `1230008`
 Dangerous [StatTrack] = `1240078`
 
 Tensai [StatTrack] = `1240157`
+
+Glide [StatTrack] = `1240176`

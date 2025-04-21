@@ -25,6 +25,9 @@ DuskTide = `240106`
 
 Astral Rift = `240138`
 
+CharredWood = `240168`
+
+Pro = `240188`
 
 **StatTrack**
 
@@ -44,4 +47,8 @@ Basilisk [StatTrack] = `1180017`
 Scaleskitter [StatTrack] = `1240017`
 
 Verglas [StatTrack] = `1240047`
+
+CharredWood [StatTrack] = `1240168`
+
+Pro [StatTrack] = `1240188`
 

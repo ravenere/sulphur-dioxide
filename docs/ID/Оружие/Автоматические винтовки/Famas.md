@@ -27,6 +27,7 @@ Battle Steel = `240085`
 
 Oxide = `240118`
 
+Feral = `240174`
 
 **StatTrack**
 
@@ -53,3 +54,4 @@ Snow Storm [StatTrack] = `1240048`
 
 Oxide [StatTrack] = `1240118`
 
+Feral [StatTrack] = `1240174`

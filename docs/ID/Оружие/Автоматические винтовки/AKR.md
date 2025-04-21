@@ -1,5 +1,6 @@
 # AKR
 
+
 Treasure Hunter = `44002`
 
 Tiger = `44003` 
@@ -40,6 +41,8 @@ Icewing = `240051`
 
 Vermilion = `240162` 
 
+Genesis = `240197`
+
 
 **StatTrack**
 
@@ -71,3 +74,5 @@ Mirage Menace [StatTrack] = `1240027`
 Vermilion [StatTrack] = `1240162`
 
 Icewing [StatTrack] = `1240051`
+
+Genesis [StatTrack] = `1240197`

@@ -25,6 +25,8 @@ Ruby Shadow = `240115`
 
 Arcane Surge = `240137`
 
+PixelCamouflage = `240179`
+
 
 **StatTrack**
 

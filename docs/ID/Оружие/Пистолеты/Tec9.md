@@ -37,6 +37,8 @@ Gangster = `240123`
 
 Night Slayer = `240147`
 
+Ultimatum = `240183`
+
 
 **StatTrack**
 

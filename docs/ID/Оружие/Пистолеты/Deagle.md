@@ -1,4 +1,4 @@
-# Deagle
+# Deagle (Desert Eagle)
 
 
 Vermilion = `240163`
@@ -43,6 +43,7 @@ DragonGlass = `15006`
 
 Thunder = `15007`
 
+Eclipse = `240194`
 
 **StatTrack**
 
@@ -72,3 +73,5 @@ Predator [StatTrack] = `1015003`
 Red Dragon [StatTrack] = `1015004`
 
 Dragon Glass [StatTrack] = `1015006`
+
+Eclipse [StatTrack] = `1240194`
