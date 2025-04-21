@@ -3,5 +3,5 @@ git commit -m "autocommit"
 
 git push
 
-mkdocs gh-deploy --clean --force --remote-name https://github.com/ravenere/sulphur-dioxide.git
+C:\Users\adminus\AppData\Roaming\Python\Python312\Scripts\mkdocs.exe gh-deploy --clean --force --remote-name https://github.com/ravenere/sulphur-dioxide.git
 pause
