@@ -43,6 +43,7 @@ Mechanic = `45003`
 
 Aurora = `45004`
 
+Shark = `240212`
 
 **StatTrack**
 
@@ -76,3 +77,5 @@ Hanami [[StatTrack]] = `1240150`
 Steampunk [StatTrack] = `1170002`
 
 Flow [StatTrack] = `1094400`
+
+Shark [StatTrack] = `1240212`

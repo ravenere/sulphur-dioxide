@@ -10,6 +10,7 @@ OverdriveRed = `240196`
 
 Streak = `240202`
 
+Ravage = `240217`
 
 **StatTrack**
 
@@ -22,3 +23,5 @@ Toco [StatTrack] = `1240175`
 Skull [StatTrack] = `1240187`
 
 OverdriveRed [StatTrack] = `1240196`
+
+Ravage [StatTrack] = `1240217`

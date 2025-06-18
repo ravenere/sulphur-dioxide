@@ -45,6 +45,8 @@ Thunder = `15007`
 
 Eclipse = `240194`
 
+Gambit = `240214`
+
 **StatTrack**
 
 
@@ -75,3 +77,5 @@ Red Dragon [StatTrack] = `1015004`
 Dragon Glass [StatTrack] = `1015006`
 
 Eclipse [StatTrack] = `1240194`
+
+Gambit [StatTrack] = `1240214`

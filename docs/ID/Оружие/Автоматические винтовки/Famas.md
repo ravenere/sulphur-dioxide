@@ -29,6 +29,8 @@ Oxide = `240118`
 
 Feral = `240174`
 
+Ritual = `240216`
+
 **StatTrack**
 
 
@@ -55,3 +57,5 @@ Snow Storm [StatTrack] = `1240048`
 Oxide [StatTrack] = `1240118`
 
 Feral [StatTrack] = `1240174`
+
+Ritual [StatTrack] = `1240216`
