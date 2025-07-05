@@ -1,0 +1,24 @@
+code {
+    position: relative;
+}
+
+code::after {
+    content: attr(data-tooltip);
+    position: absolute;
+    top: -1.5em;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #333;
+    color: #fff;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 12px;
+    white-space: nowrap;
+    opacity: 0;
+    transition: opacity 0.2s;
+    pointer-events: none;
+}
+
+code:hover::after {
+    opacity: 1;
+}
