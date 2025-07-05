@@ -29,6 +29,8 @@ CharredWood = `240168`
 
 Pro = `240188`
 
+Splash = `240224`
+
 **StatTrack**
 
 
@@ -52,3 +54,4 @@ CharredWood [StatTrack] = `1240168`
 
 Pro [StatTrack] = `1240188`
 
+Splash  [StatTrack] = `1240224`

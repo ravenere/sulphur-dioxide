@@ -41,6 +41,8 @@ VHS = `240087`
 
 Heatwave = `240167`
 
+Smelter = `240220`
+
 **StatTrack**
 
 
@@ -71,3 +73,5 @@ Arid [StatTrack] = `1240018`
 Industrial [StatTrack] = `1240076`
 
 Heatwave [StatTrack] = `1240167`
+
+Smelter [StatTrack] = `1240220`

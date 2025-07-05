@@ -20,3 +20,5 @@ Glitch = `240007`
 Saphira = `240059`
 
 Ripple = `240130`
+
+Gambit = `240225`

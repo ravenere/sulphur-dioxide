@@ -47,6 +47,8 @@ New1 = `65101`
 
 Sylvan = `240190`
 
+Ravage = `240219`
+
 
 **StatTrack**
 
@@ -78,3 +80,5 @@ Hohei Taisho [StatTrack] = `1240102`
 Spectral [StatTrack] = `1240126`
 
 Sylvan [StatTrack] = `1240190`
+
+Ravage [StatTrack] = `1240219`
